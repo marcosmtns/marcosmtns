@@ -3,7 +3,6 @@
 - 👨🏻‍🎓 Cursando Sistemas de Informação
 - 👨🏻‍💻 Progredindo em Desenvolvimento Web Full Stack
 <div>
-  <a href="https://github.com/marcosmtns">
   <hr>
 </div>
 <div style="display: inline_block"><br>
