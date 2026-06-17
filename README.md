@@ -1,6 +1,6 @@
 ### Olá! Sou o Marcos Martins
 
-- 👨🏻‍🎓 Cursando Sistemas de Informação
+- 👨🏻‍🎓 Sistemas de Informação
 - 👨🏻‍💻 Desenvolvedor Web Front-end | React.JS
 <div>
   <hr>
