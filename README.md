@@ -1,6 +1,8 @@
 ### Olá! Sou o Marcos Martins
 
 - 👨🏻‍🎓 Sistemas de Informação
+- 👨🏻‍🎓 Técnico em Informática
+- Certificação em ITIL V4
 - 👨🏻‍💻 Desenvolvedor Web Front-end | React.JS
 <div>
   <hr>
